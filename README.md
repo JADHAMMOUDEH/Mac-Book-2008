@@ -1,9 +1,11 @@
 # Mac-Book-2006
  
 ![alt text](https://github.com/JADHAMMOUDEH/Mac-Book-2008/assets/156061062/aade04ad-9d45-44da-8794-fd80351758ed)
-[https://support.apple.com/kb/SP809?locale=en_US](url)
-[https://www.youtube.com/watch?v=o89zET46VtM](url)
 
+[https://support.apple.com/kb/SP809?locale=en_US](url)
+
+[[https://www.youtube.com/watch?v=o89zET46VtM]
+](url)
 **Apple Inc.** sold the MacBook brand of Mac notebooks between May 2006 and February 2012. As part of Apple's shift from PowerPC to Intel CPUs, it replaced the iBook notebook series. The MacBook is positioned at the bottom of the MacBook line, behind the luxury ultra-portable MacBook Air and the performance-oriented ***MacBook Pro***. 
 
 
