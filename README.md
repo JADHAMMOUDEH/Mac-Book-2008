@@ -4,7 +4,7 @@
 [https://support.apple.com/kb/SP809?locale=en_US](url)
 [https://www.youtube.com/watch?v=o89zET46VtM](url)
 
-Apple Inc. sold the MacBook brand of Mac notebooks between May 2006 and February 2012. As part of Apple's shift from PowerPC to Intel CPUs, it replaced the iBook notebook series. The MacBook is positioned at the bottom of the MacBook line, behind the luxury ultra-portable MacBook Air and the performance-oriented MacBook Pro. 
+**Apple Inc.** sold the MacBook brand of Mac notebooks between May 2006 and February 2012. As part of Apple's shift from PowerPC to Intel CPUs, it replaced the iBook notebook series. The MacBook is positioned at the bottom of the MacBook line, behind the luxury ultra-portable MacBook Air and the performance-oriented ***MacBook Pro***. 
 
 
 
@@ -21,5 +21,7 @@ Apple Inc. sold the MacBook brand of Mac notebooks between May 2006 and February
 | 800mhz | 3000mhz      |    
 
 1.Mac Book
+
 2.Dell
+
 3.Asus
