@@ -11,10 +11,10 @@
 
 
 # 💫 Specs 💫 
--The original MacBook, available in black or white colors,
--32-bit Intel Core Duo processor and 945GM chipset, 
--With Intel's GMA 950 integrated graphics on a 667 MHz front side bus. 
--Later revisions of the MacBook moved to the 64-bit Core 2 Duo processor and the GM965 chipset, with Intel's GMA X3100 integrated graphics on an 800 MHz system bus.
+- The original MacBook, available in black or white colors,
+- 32-bit Intel Core Duo processor and 945GM chipset,
+- With Intel's GMA 950 integrated graphics on a 667 MHz front side bus. 
+- Later revisions of the MacBook moved to the 64-bit Core 2 Duo processor and the GM965 chipset, with Intel's GMA X3100 integrated graphics on an 800 MHz system bus.
 
 | Mac Book 2006| Macbook 2019        
 | ------------- |:-------------:| 
